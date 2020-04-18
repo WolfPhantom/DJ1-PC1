@@ -1,0 +1,7 @@
+1.Un asset cualquiera en escena cuando es arrastrado hacia la ventana de Projecto de Unity, lo convierte en un
+prefab
+2.Cuando un collider es un trigger manda un mensaje cuando otro objeto colisona con este, nos permite identificar
+cual es el objeto que colisiona 
+3.
+	3.1 el gameobject no esta activo.
+	3.2 El nombre des scipts es distinto
