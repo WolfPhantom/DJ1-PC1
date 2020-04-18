@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 2df75ca37bcaac04bae6eec056b6f986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3504027952346654673
+    second: monster-idle_0
+  - first:
+      213: -1060041836004280659
+    second: monster-idle_1
+  - first:
+      213: -5637434372266462166
+    second: monster-idle_2
+  - first:
+      213: 284539702720164510
+    second: monster-idle_3
+  - first:
+      213: -8407902144332005048
+    second: monster-idle_4
+  - first:
+      213: -115158882811586354
+    second: monster-idle_5
+  - first:
+      213: -3689307061437259015
+    second: monster-idle_6
+  - first:
+      213: -2605257639559946076
+    second: monster-idle_7
+  - first:
+      213: -9165392136245875890
+    second: monster-idle_8
+  - first:
+      213: 6385631041386980471
+    second: monster-idle_9
+  - first:
+      213: 7739541417696573227
+    second: monster-idle_10
+  - first:
+      213: -7549699781734306612
+    second: monster-idle_11
+  - first:
+      213: -2799524540091853060
+    second: monster-idle_0
+  - first:
+      213: 1114764318037805412
+    second: monster-idle_1
+  - first:
+      213: -5307386627420756726
+    second: monster-idle_2
+  - first:
+      213: 218635505900184799
+    second: monster-idle_3
+  - first:
+      213: -1042454304866369806
+    second: monster-idle_4
+  - first:
+      213: 7220838956067570082
+    second: monster-idle_5
+  - first:
+      213: -6576900878332059631
+    second: monster-idle_6
+  - first:
+      213: -6537463644300336553
+    second: monster-idle_7
+  - first:
+      213: -8127227944252561866
+    second: monster-idle_8
+  - first:
+      213: -5102710345316641894
+    second: monster-idle_9
+  - first:
+      213: -244011373719212311
+    second: monster-idle_10
+  - first:
+      213: 3123630333311427040
+    second: monster-idle_11
+  - first:
+      213: -4483802545066528136
+    second: monster-idle_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-idle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf616d763471629d0800000000000000
+      internalID: -2799524540091853060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 393
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4698ce0bd30787f00800000000000000
+      internalID: 1114764318037805412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 391
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a056dea6bff5856b0800000000000000
+      internalID: -5307386627420756726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 393
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e77095dfb80300800000000000000
+      internalID: 218635505900184799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fefcd735557881f0800000000000000
+      internalID: -1042454304866369806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 262
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c5bcd5c2953460800000000000000
+      internalID: 7220838956067570082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 262
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11020104f772ab4a0800000000000000
+      internalID: -6576900878332059631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a275d3734645a0800000000000000
+      internalID: -6537463644300336553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 131
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a23e9e39463f80800000000000000
+      internalID: -8127227944252561866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 100
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d0bbe9f78f29b0800000000000000
+      internalID: -5102710345316641894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 131
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeaf4cc2f81d9cf0800000000000000
+      internalID: -244011373719212311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 98
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1a9aa0d3d595b20800000000000000
+      internalID: 3123630333311427040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-idle_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 261
+        width: 102
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872315a675556c1c0800000000000000
+      internalID: -4483802545066528136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
